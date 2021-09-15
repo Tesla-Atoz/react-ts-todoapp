@@ -1,3 +1,12 @@
+
+###Learnt Typescript basics first. React + TS project setup and worked out a simple todo app.
+###also, learnt how to use TS with other third party packages like Redux, React-router 
+
+
+### need to learn react-hooks more deeply 
+### need to learn easy-peasy
+### redo the mithya assignment in TS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

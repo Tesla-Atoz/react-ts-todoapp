@@ -1,6 +1,6 @@
 
-###Learnt Typescript basics first. React + TS project setup and worked out a simple todo app.
-###also, learnt how to use TS with other third party packages like Redux, React-router 
+### Learnt Typescript basics first. React + TS project setup and worked out a simple todo app.
+### also, learnt how to use TS with other third party packages like Redux, React-router 
 
 
 ### need to learn react-hooks more deeply 
